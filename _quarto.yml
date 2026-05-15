@@ -3,8 +3,8 @@ project:
   output-dir: _site
 
 website:
-  title: "Your Name"
-  description: "PhD Student / Researcher in CS"
+  title: "Johann Scheepers"
+  description: "PhD Candidate / ML Engineer / ML Researcher"
   favicon: assets/img/favicon.ico
 
   navbar:
@@ -30,7 +30,7 @@ website:
         aria-label: LinkedIn
 
   page-footer:
-    left: "© 2026 Your Name"
+    left: "© 2026 Johann Scheepers"
     right:
       - text: "Built with Quarto"
         href: https://quarto.org
