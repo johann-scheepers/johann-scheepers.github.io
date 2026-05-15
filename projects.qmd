@@ -1,0 +1,33 @@
+---
+title: "Projects"
+listing:
+  - id: research-projects
+    contents: projects/research-*.qmd
+    type: grid
+    grid-columns: 2
+    fields: [image, title, description, categories]
+    categories: true
+    sort: "date desc"
+  - id: side-projects
+    contents: projects/side-*.qmd
+    type: grid
+    grid-columns: 3
+    fields: [image, title, description, categories]
+    sort: "date desc"
+---
+
+## Research Projects
+
+These are ongoing and completed projects from my research work.
+
+:::{#research-projects}
+:::
+
+---
+
+## Side Projects & Open Source
+
+Personal projects, course projects, and open-source contributions.
+
+:::{#side-projects}
+:::

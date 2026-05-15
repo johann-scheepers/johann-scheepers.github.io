@@ -1,0 +1,62 @@
+---
+title: "Your Name"
+subtitle: "PhD Student · Department of Computer Science · University of Waterloo"
+image: assets/img/profile.jpg
+about:
+  template: trestles      # Options: jolla, trestles, solana, marquee, broadside
+  image-shape: round
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:you@uwaterloo.ca
+    - icon: github
+      text: GitHub
+      href: https://github.com/yourusername
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/yourname
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      href: https://scholar.google.com/
+    - text: CV
+      href: assets/files/CV.pdf
+---
+
+## About Me
+
+I am a PhD student in the [Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the
+University of Waterloo, advised by [Prof. Supervisor Name](https://example.com).
+My research is supported by [funding source, e.g., NSERC].
+
+My work sits at the intersection of **machine learning** and **systems** — I build and study
+[brief research description, e.g., efficient algorithms for distributed ML training].
+
+Previously, I completed my B.Sc. in [field] at [university], where I worked on [brief description].
+
+---
+
+## Research Interests
+
+- **Topic 1** — one-line description
+- **Topic 2** — one-line description
+- **Topic 3** — one-line description
+
+---
+
+## News
+
+| Date | Event |
+|------|-------|
+| May 2026 | Paper accepted at [Venue] |
+| Jan 2026 | Started internship at [Company] |
+| Sep 2025 | Joined [Lab Name] as a PhD student |
+
+---
+
+## Selected Publications
+
+See the full list on the [Publications](publications.qmd) page.
+
+**Paper Title Here**  
+Your Name, Coauthor A, Coauthor B  
+*Conference / Journal Name*, Year  
+[[PDF]](assets/files/paper.pdf) [[Code]](https://github.com) [[Talk]](#)

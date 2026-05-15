@@ -1,0 +1,39 @@
+---
+title: "Project Title: A Descriptive Subtitle"
+description: "One or two sentences describing the core idea and why it matters."
+date: 2025-09-01
+categories: [Machine Learning, Systems, Python]
+image: ../assets/img/project1.png   # Optional: 300×200px works well
+---
+
+## Overview
+
+Brief description of the project's motivation and goals. What problem does it solve?
+Who cares about this problem?
+
+## Approach
+
+What did you build / discover? What's the key technical idea?
+
+```python
+# Example code snippet (Quarto renders it with syntax highlighting)
+import numpy as np
+
+def cool_algorithm(x):
+    return np.exp(-x**2)
+```
+
+## Results
+
+Key findings, metrics, or demonstrations.
+
+| Metric | Baseline | Ours |
+|--------|----------|------|
+| Accuracy | 82.1% | **89.4%** |
+| Latency (ms) | 120 | **43** |
+
+## Links
+
+- [GitHub Repo](https://github.com)
+- [Paper](../publications.qmd)
+- [Demo](#)

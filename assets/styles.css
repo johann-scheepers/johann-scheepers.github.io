@@ -1,0 +1,79 @@
+/* ── Typography ──────────────────────────────────── */
+body {
+  font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+  line-height: 1.7;
+}
+
+h1, h2, h3 {
+  font-weight: 600;
+}
+
+/* ── Navbar ──────────────────────────────────────── */
+.navbar {
+  border-bottom: 1px solid rgba(0,0,0,0.08);
+}
+
+/* ── About / Homepage ────────────────────────────── */
+#quarto-content .about-entity .about-image {
+  border: 3px solid #dee2e6;
+}
+
+/* ── Publication entries ─────────────────────────── */
+.pub-entry {
+  padding: 1rem 0;
+  border-bottom: 1px solid #f0f0f0;
+  margin-bottom: 0.5rem;
+}
+
+.pub-entry:last-child {
+  border-bottom: none;
+}
+
+.pub-entry p {
+  margin-bottom: 0.4rem;
+}
+
+/* ── Buttons (PDF, Code, etc.) ───────────────────── */
+.btn-sm {
+  font-size: 0.78rem;
+  padding: 0.2rem 0.6rem;
+  border-radius: 4px;
+  margin-right: 4px;
+  text-decoration: none;
+}
+
+/* ── News table ──────────────────────────────────── */
+table td:first-child {
+  white-space: nowrap;
+  color: #6c757d;
+  font-size: 0.9rem;
+}
+
+/* ── Blog listing ────────────────────────────────── */
+.quarto-listing-category-title {
+  font-weight: 600;
+}
+
+/* ── Project cards ───────────────────────────────── */
+.quarto-grid-item {
+  border-radius: 8px;
+  transition: box-shadow 0.2s ease;
+}
+
+.quarto-grid-item:hover {
+  box-shadow: 0 4px 16px rgba(0,0,0,0.12);
+}
+
+/* ── Footer ──────────────────────────────────────── */
+.nav-footer {
+  border-top: 1px solid rgba(0,0,0,0.08);
+  font-size: 0.9rem;
+  color: #6c757d;
+}
+
+/* ── Code blocks ─────────────────────────────────── */
+pre {
+  border-radius: 6px;
+  font-size: 0.88rem;
+}

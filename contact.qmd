@@ -1,0 +1,35 @@
+---
+title: "Contact"
+---
+
+## Get in Touch
+
+The best way to reach me is by **email**: [you@uwaterloo.ca](mailto:you@uwaterloo.ca)
+
+I'm happy to chat about:
+
+- Research collaborations or questions about my work
+- PhD applications and advice (especially for [your subfield])
+- Data science or ML questions
+- Anything else reasonable 🙂
+
+---
+
+## Find Me Online
+
+| Platform | Handle |
+|----------|--------|
+| GitHub | [@yourusername](https://github.com/yourusername) |
+| LinkedIn | [Your Name](https://linkedin.com/in/yourname) |
+| Google Scholar | [Your Profile](https://scholar.google.com) |
+| Twitter / X | [@yourhandle](https://twitter.com/yourhandle) |
+
+---
+
+## Office
+
+**Room XXX, Davis Centre (DC)**  
+Cheriton School of Computer Science  
+University of Waterloo  
+200 University Avenue West  
+Waterloo, ON N2L 3G1, Canada

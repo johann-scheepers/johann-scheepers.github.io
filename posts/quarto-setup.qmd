@@ -1,0 +1,42 @@
+---
+title: "How I Set Up This Website with Quarto"
+description: "A walkthrough of the tools and structure I used to build my academic website, deployed free on GitHub Pages."
+date: 2026-05-15
+categories: [Quarto, Tools, Meta]
+image: ../assets/img/blog/quarto-setup.png  # optional
+---
+
+## Why Quarto?
+
+Quarto lets me write in `.qmd` files — a superset of Markdown that supports R, Python,
+and Julia code blocks that actually *execute*. That means I can include live analysis in posts
+without copy-pasting outputs.
+
+## The Structure
+
+The site is organized as...
+
+```
+my-website/
+├── _quarto.yml      # Site config
+├── index.qmd        # Homepage
+├── publications.qmd
+├── projects/
+├── posts/           # Blog posts live here
+├── teaching.qmd
+└── assets/
+```
+
+## Deploying to GitHub Pages
+
+```bash
+# One-time setup
+quarto publish gh-pages
+
+# Subsequent updates
+git add . && git commit -m "Update"
+quarto publish gh-pages
+```
+
+That's it — Quarto handles building and pushing to the `gh-pages` branch automatically.
+Your site will be live at `https://yourusername.github.io`.

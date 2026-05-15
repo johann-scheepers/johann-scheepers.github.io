@@ -1,0 +1,70 @@
+---
+title: "Publications"
+---
+
+[Google Scholar](https://scholar.google.com/){.btn .btn-outline-primary .btn-sm}
+[Semantic Scholar](https://www.semanticscholar.org/){.btn .btn-outline-primary .btn-sm}
+
+---
+
+## Conference Papers
+
+::: {.pub-entry}
+**Paper Title: A Subtitle That Explains What You Did**  
+**Your Name**, Coauthor A, Coauthor B, Senior Author  
+*Proceedings of the 20th Conference on [Topic] (VENUE)*, City, Year  
+
+[[PDF]](assets/files/paper1.pdf){.btn .btn-sm .btn-outline-secondary}
+[[arXiv]](https://arxiv.org){.btn .btn-sm .btn-outline-secondary}
+[[Code]](https://github.com){.btn .btn-sm .btn-outline-secondary}
+[[Slides]](assets/files/slides1.pdf){.btn .btn-sm .btn-outline-secondary}
+[[Talk ▶]](#){.btn .btn-sm .btn-outline-secondary}
+:::
+
+::: {.pub-entry}
+**Another Paper Title**  
+**Your Name**, Coauthor C  
+*Workshop on [Topic] at VENUE*, Year  
+
+[[PDF]](assets/files/paper2.pdf){.btn .btn-sm .btn-outline-secondary}
+[[Poster]](assets/files/poster2.pdf){.btn .btn-sm .btn-outline-secondary}
+:::
+
+---
+
+## Journal Articles
+
+::: {.pub-entry}
+**Journal Paper Title**  
+Coauthor A, **Your Name**, Coauthor B  
+*Journal of [Field]*, Vol. X, No. Y, Pages, Year  
+DOI: [10.xxxx/xxxxx](https://doi.org)
+
+[[PDF]](assets/files/journal1.pdf){.btn .btn-sm .btn-outline-secondary}
+:::
+
+---
+
+## Preprints
+
+::: {.pub-entry}
+**Preprint Title: Work in Progress**  
+**Your Name**, Coauthor A  
+*arXiv preprint arXiv:XXXX.XXXXX*, Year  
+
+[[arXiv]](https://arxiv.org){.btn .btn-sm .btn-outline-secondary}
+[[Code]](https://github.com){.btn .btn-sm .btn-outline-secondary}
+:::
+
+---
+
+## Theses
+
+::: {.pub-entry}
+**B.Sc. / M.Sc. Thesis Title**  
+**Your Name**  
+[University Name], Year  
+Advised by [Prof. Name]
+
+[[PDF]](assets/files/thesis.pdf){.btn .btn-sm .btn-outline-secondary}
+:::

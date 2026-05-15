@@ -1,0 +1,59 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Your Name"
+  description: "PhD Student / Researcher in CS"
+  favicon: assets/img/favicon.ico
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: publications.qmd
+        text: Publications
+      - href: projects.qmd
+        text: Projects
+      - href: teaching.qmd
+        text: Teaching
+      - href: blog/index.qmd
+        text: Blog
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/yourusername
+        aria-label: GitHub
+      - icon: linkedin
+        href: https://linkedin.com/in/yourname
+        aria-label: LinkedIn
+
+  page-footer:
+    left: "© 2026 Your Name"
+    right:
+      - text: "Built with Quarto"
+        href: https://quarto.org
+
+  # Sidebar for blog (optional, scoped to blog/ only)
+  sidebar:
+    - id: blog-sidebar
+      style: "floating"
+      collapse-level: 2
+      contents:
+        - blog/index.qmd
+
+format:
+  html:
+    theme:
+      light: flatly   # Try: cosmo, flatly, lumen, pulse, sandstone, simplex, sketchy, slate, solar, spacelab, superhero, united, yeti
+      dark: darkly
+    css: assets/styles.css
+    toc: true
+    toc-depth: 3
+    smooth-scroll: true
+    code-fold: true      # Collapsible code blocks — great for DS/CS
+    code-tools: true
+
+execute:
+  freeze: auto           # Re-render only when source changes
