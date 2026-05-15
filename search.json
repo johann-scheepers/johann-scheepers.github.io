@@ -7,13 +7,6 @@
     "text": "Google Scholar Semantic Scholar"
   },
   {
-    "objectID": "publications.html#conference-papers",
-    "href": "publications.html#conference-papers",
-    "title": "Publications",
-    "section": "Conference Papers",
-    "text": "Conference Papers\n\nPaper Title: A Subtitle That Explains What You Did\nYour Name, Coauthor A, Coauthor B, Senior Author\nProceedings of the 20th Conference on [Topic] (VENUE), City, Year\n[PDF] [arXiv] [Code] [Slides] [Talk ▶]\n\n\nAnother Paper Title\nYour Name, Coauthor C\nWorkshop on [Topic] at VENUE, Year\n[PDF] [Poster]"
-  },
-  {
     "objectID": "publications.html#journal-articles",
     "href": "publications.html#journal-articles",
     "title": "Publications",
@@ -21,32 +14,18 @@
     "text": "Journal Articles\n\nJournal Paper Title\nCoauthor A, Your Name, Coauthor B\nJournal of [Field], Vol. X, No. Y, Pages, Year\nDOI: 10.xxxx/xxxxx\n[PDF]"
   },
   {
-    "objectID": "publications.html#preprints",
-    "href": "publications.html#preprints",
-    "title": "Publications",
-    "section": "Preprints",
-    "text": "Preprints\n\nPreprint Title: Work in Progress\nYour Name, Coauthor A\narXiv preprint arXiv:XXXX.XXXXX, Year\n[arXiv] [Code]"
-  },
-  {
-    "objectID": "publications.html#theses",
-    "href": "publications.html#theses",
-    "title": "Publications",
-    "section": "Theses",
-    "text": "Theses\n\nB.Sc. / M.Sc. Thesis Title\nYour Name\n[University Name], Year\nAdvised by [Prof. Name]\n[PDF]"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Johann Scheepers",
     "section": "",
-    "text": "I am a PhD student in the Department of Mechanical and Mechatronics Engineering at the University of Waterloo, advised by Prof. Kaan Inal. My research is supported by General Motors Canada.\nMy work sits at the intersection of machine learning and computational mechanics. I trained and study Deep Learning approaches to understand complex material systems and accelerate simulations involving them.\nPreviously, I completed my BASc. in Mechanical Engineering at the University of Waterloo."
+    "text": "I am a PhD student in the Department of Mechanical and Mechatronics Engineering at the University of Waterloo, advised by Prof. Kaan Inal. My research is supported by General Motors Canada.\nMy work sits at the intersection of deep learning and computational mechanics. I trained and study Deep Learning approaches to understand complex material systems and accelerate simulations involving them.\nPreviously, I completed my BASc. in Mechanical Engineering at the University of Waterloo."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
     "title": "Johann Scheepers",
     "section": "",
-    "text": "I am a PhD student in the Department of Mechanical and Mechatronics Engineering at the University of Waterloo, advised by Prof. Kaan Inal. My research is supported by General Motors Canada.\nMy work sits at the intersection of machine learning and computational mechanics. I trained and study Deep Learning approaches to understand complex material systems and accelerate simulations involving them.\nPreviously, I completed my BASc. in Mechanical Engineering at the University of Waterloo."
+    "text": "I am a PhD student in the Department of Mechanical and Mechatronics Engineering at the University of Waterloo, advised by Prof. Kaan Inal. My research is supported by General Motors Canada.\nMy work sits at the intersection of deep learning and computational mechanics. I trained and study Deep Learning approaches to understand complex material systems and accelerate simulations involving them.\nPreviously, I completed my BASc. in Mechanical Engineering at the University of Waterloo."
   },
   {
     "objectID": "index.html#research-interests",
@@ -123,35 +102,14 @@
     "href": "teaching.html",
     "title": "Teaching",
     "section": "",
-    "text": "University of Waterloo · Fall 2025\n\nHeld office hours (4 hrs/week) for ~200 students\nLed bi-weekly tutorial sessions on algorithm design and proof techniques\nDeveloped practice problems and solutions for midterm/final review\n\n\n\n\nUniversity of Waterloo · Winter 2025\n\nGraded assignments and provided detailed written feedback\nGuest lecture: “Generalization and Overfitting” (Slides)"
+    "text": "University of Waterloo · Fall 2023, Fall 2024, Fall 2025\n\nHosted lectures on course content including multi-dimensional structural FEM and isoparameteric integration\nLed tutorial sessions on simulation development and analysis\nDeveloped practice problems and solutions for midterm/final review\nGraded assignments and provided detailed written feedback"
   },
   {
     "objectID": "teaching.html#teaching-assistantships",
     "href": "teaching.html#teaching-assistantships",
     "title": "Teaching",
     "section": "",
-    "text": "University of Waterloo · Fall 2025\n\nHeld office hours (4 hrs/week) for ~200 students\nLed bi-weekly tutorial sessions on algorithm design and proof techniques\nDeveloped practice problems and solutions for midterm/final review\n\n\n\n\nUniversity of Waterloo · Winter 2025\n\nGraded assignments and provided detailed written feedback\nGuest lecture: “Generalization and Overfitting” (Slides)"
-  },
-  {
-    "objectID": "teaching.html#guest-lectures-talks",
-    "href": "teaching.html#guest-lectures-talks",
-    "title": "Teaching",
-    "section": "Guest Lectures & Talks",
-    "text": "Guest Lectures & Talks\n\n\n\nDate\nTopic\nVenue\n\n\n\n\nMar 2026\n“Introduction to Transformers”\nCS 489, UWaterloo\n\n\nNov 2025\n“Distributed Training at Scale”\nReading Group"
-  },
-  {
-    "objectID": "teaching.html#mentorship",
-    "href": "teaching.html#mentorship",
-    "title": "Teaching",
-    "section": "Mentorship",
-    "text": "Mentorship\n\nUndergraduate Researcher — Student Name (2025–present): working on [project topic]\nCo-supervisor — Student Name (2024): [brief description], now at [company/school]"
-  },
-  {
-    "objectID": "teaching.html#materials",
-    "href": "teaching.html#materials",
-    "title": "Teaching",
-    "section": "Materials",
-    "text": "Materials\nSome materials I’ve prepared that might be useful:\n\nTutorial: Getting Started with PyTorch\nNotes: Probability Review for ML\nCheatsheet: Git for Researchers"
+    "text": "University of Waterloo · Fall 2023, Fall 2024, Fall 2025\n\nHosted lectures on course content including multi-dimensional structural FEM and isoparameteric integration\nLed tutorial sessions on simulation development and analysis\nDeveloped practice problems and solutions for midterm/final review\nGraded assignments and provided detailed written feedback"
   },
   {
     "objectID": "posts/quarto-setup.html",
