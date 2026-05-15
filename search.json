@@ -1,0 +1,229 @@
+[
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Google Scholar Semantic Scholar"
+  },
+  {
+    "objectID": "publications.html#conference-papers",
+    "href": "publications.html#conference-papers",
+    "title": "Publications",
+    "section": "Conference Papers",
+    "text": "Conference Papers\n\nPaper Title: A Subtitle That Explains What You Did\nYour Name, Coauthor A, Coauthor B, Senior Author\nProceedings of the 20th Conference on [Topic] (VENUE), City, Year\n[PDF] [arXiv] [Code] [Slides] [Talk ▶]\n\n\nAnother Paper Title\nYour Name, Coauthor C\nWorkshop on [Topic] at VENUE, Year\n[PDF] [Poster]"
+  },
+  {
+    "objectID": "publications.html#journal-articles",
+    "href": "publications.html#journal-articles",
+    "title": "Publications",
+    "section": "Journal Articles",
+    "text": "Journal Articles\n\nJournal Paper Title\nCoauthor A, Your Name, Coauthor B\nJournal of [Field], Vol. X, No. Y, Pages, Year\nDOI: 10.xxxx/xxxxx\n[PDF]"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\n\nPreprint Title: Work in Progress\nYour Name, Coauthor A\narXiv preprint arXiv:XXXX.XXXXX, Year\n[arXiv] [Code]"
+  },
+  {
+    "objectID": "publications.html#theses",
+    "href": "publications.html#theses",
+    "title": "Publications",
+    "section": "Theses",
+    "text": "Theses\n\nB.Sc. / M.Sc. Thesis Title\nYour Name\n[University Name], Year\nAdvised by [Prof. Name]\n[PDF]"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Your Name",
+    "section": "",
+    "text": "I am a PhD student in the Cheriton School of Computer Science at the University of Waterloo, advised by Prof. Supervisor Name. My research is supported by [funding source, e.g., NSERC].\nMy work sits at the intersection of machine learning and systems — I build and study [brief research description, e.g., efficient algorithms for distributed ML training].\nPreviously, I completed my B.Sc. in [field] at [university], where I worked on [brief description]."
+  },
+  {
+    "objectID": "index.html#about-me",
+    "href": "index.html#about-me",
+    "title": "Your Name",
+    "section": "",
+    "text": "I am a PhD student in the Cheriton School of Computer Science at the University of Waterloo, advised by Prof. Supervisor Name. My research is supported by [funding source, e.g., NSERC].\nMy work sits at the intersection of machine learning and systems — I build and study [brief research description, e.g., efficient algorithms for distributed ML training].\nPreviously, I completed my B.Sc. in [field] at [university], where I worked on [brief description]."
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Your Name",
+    "section": "Research Interests",
+    "text": "Research Interests\n\nTopic 1 — one-line description\nTopic 2 — one-line description\nTopic 3 — one-line description"
+  },
+  {
+    "objectID": "index.html#news",
+    "href": "index.html#news",
+    "title": "Your Name",
+    "section": "News",
+    "text": "News\n\n\n\nDate\nEvent\n\n\n\n\nMay 2026\nPaper accepted at [Venue]\n\n\nJan 2026\nStarted internship at [Company]\n\n\nSep 2025\nJoined [Lab Name] as a PhD student"
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Your Name",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nSee the full list on the Publications page.\nPaper Title Here\nYour Name, Coauthor A, Coauthor B\nConference / Journal Name, Year\n[PDF] [Code] [Talk]"
+  },
+  {
+    "objectID": "projects/research-example.html",
+    "href": "projects/research-example.html",
+    "title": "Project Title: A Descriptive Subtitle",
+    "section": "",
+    "text": "Brief description of the project’s motivation and goals. What problem does it solve? Who cares about this problem?"
+  },
+  {
+    "objectID": "projects/research-example.html#overview",
+    "href": "projects/research-example.html#overview",
+    "title": "Project Title: A Descriptive Subtitle",
+    "section": "",
+    "text": "Brief description of the project’s motivation and goals. What problem does it solve? Who cares about this problem?"
+  },
+  {
+    "objectID": "projects/research-example.html#approach",
+    "href": "projects/research-example.html#approach",
+    "title": "Project Title: A Descriptive Subtitle",
+    "section": "Approach",
+    "text": "Approach\nWhat did you build / discover? What’s the key technical idea?\n# Example code snippet (Quarto renders it with syntax highlighting)\nimport numpy as np\n\ndef cool_algorithm(x):\n    return np.exp(-x**2)"
+  },
+  {
+    "objectID": "projects/research-example.html#results",
+    "href": "projects/research-example.html#results",
+    "title": "Project Title: A Descriptive Subtitle",
+    "section": "Results",
+    "text": "Results\nKey findings, metrics, or demonstrations.\n\n\n\nMetric\nBaseline\nOurs\n\n\n\n\nAccuracy\n82.1%\n89.4%\n\n\nLatency (ms)\n120\n43"
+  },
+  {
+    "objectID": "projects/research-example.html#links",
+    "href": "projects/research-example.html#links",
+    "title": "Project Title: A Descriptive Subtitle",
+    "section": "Links",
+    "text": "Links\n\nGitHub Repo\nPaper\nDemo"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "The best way to reach me is by email: you@uwaterloo.ca\nI’m happy to chat about:\n\nResearch collaborations or questions about my work\nPhD applications and advice (especially for [your subfield])\nData science or ML questions\nAnything else reasonable 🙂"
+  },
+  {
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "Contact",
+    "section": "",
+    "text": "The best way to reach me is by email: you@uwaterloo.ca\nI’m happy to chat about:\n\nResearch collaborations or questions about my work\nPhD applications and advice (especially for [your subfield])\nData science or ML questions\nAnything else reasonable 🙂"
+  },
+  {
+    "objectID": "contact.html#find-me-online",
+    "href": "contact.html#find-me-online",
+    "title": "Contact",
+    "section": "Find Me Online",
+    "text": "Find Me Online\n\n\n\nPlatform\nHandle\n\n\n\n\nGitHub\n@yourusername\n\n\nLinkedIn\nYour Name\n\n\nGoogle Scholar\nYour Profile\n\n\nTwitter / X\n@yourhandle"
+  },
+  {
+    "objectID": "contact.html#office",
+    "href": "contact.html#office",
+    "title": "Contact",
+    "section": "Office",
+    "text": "Office\nRoom XXX, Davis Centre (DC)\nCheriton School of Computer Science\nUniversity of Waterloo\n200 University Avenue West\nWaterloo, ON N2L 3G1, Canada"
+  },
+  {
+    "objectID": "teaching.html",
+    "href": "teaching.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "University of Waterloo · Fall 2025\n\nHeld office hours (4 hrs/week) for ~200 students\nLed bi-weekly tutorial sessions on algorithm design and proof techniques\nDeveloped practice problems and solutions for midterm/final review\n\n\n\n\nUniversity of Waterloo · Winter 2025\n\nGraded assignments and provided detailed written feedback\nGuest lecture: “Generalization and Overfitting” (Slides)"
+  },
+  {
+    "objectID": "teaching.html#teaching-assistantships",
+    "href": "teaching.html#teaching-assistantships",
+    "title": "Teaching",
+    "section": "",
+    "text": "University of Waterloo · Fall 2025\n\nHeld office hours (4 hrs/week) for ~200 students\nLed bi-weekly tutorial sessions on algorithm design and proof techniques\nDeveloped practice problems and solutions for midterm/final review\n\n\n\n\nUniversity of Waterloo · Winter 2025\n\nGraded assignments and provided detailed written feedback\nGuest lecture: “Generalization and Overfitting” (Slides)"
+  },
+  {
+    "objectID": "teaching.html#guest-lectures-talks",
+    "href": "teaching.html#guest-lectures-talks",
+    "title": "Teaching",
+    "section": "Guest Lectures & Talks",
+    "text": "Guest Lectures & Talks\n\n\n\nDate\nTopic\nVenue\n\n\n\n\nMar 2026\n“Introduction to Transformers”\nCS 489, UWaterloo\n\n\nNov 2025\n“Distributed Training at Scale”\nReading Group"
+  },
+  {
+    "objectID": "teaching.html#mentorship",
+    "href": "teaching.html#mentorship",
+    "title": "Teaching",
+    "section": "Mentorship",
+    "text": "Mentorship\n\nUndergraduate Researcher — Student Name (2025–present): working on [project topic]\nCo-supervisor — Student Name (2024): [brief description], now at [company/school]"
+  },
+  {
+    "objectID": "teaching.html#materials",
+    "href": "teaching.html#materials",
+    "title": "Teaching",
+    "section": "Materials",
+    "text": "Materials\nSome materials I’ve prepared that might be useful:\n\nTutorial: Getting Started with PyTorch\nNotes: Probability Review for ML\nCheatsheet: Git for Researchers"
+  },
+  {
+    "objectID": "posts/quarto-setup.html",
+    "href": "posts/quarto-setup.html",
+    "title": "How I Set Up This Website with Quarto",
+    "section": "",
+    "text": "Quarto lets me write in .qmd files — a superset of Markdown that supports R, Python, and Julia code blocks that actually execute. That means I can include live analysis in posts without copy-pasting outputs."
+  },
+  {
+    "objectID": "posts/quarto-setup.html#why-quarto",
+    "href": "posts/quarto-setup.html#why-quarto",
+    "title": "How I Set Up This Website with Quarto",
+    "section": "",
+    "text": "Quarto lets me write in .qmd files — a superset of Markdown that supports R, Python, and Julia code blocks that actually execute. That means I can include live analysis in posts without copy-pasting outputs."
+  },
+  {
+    "objectID": "posts/quarto-setup.html#the-structure",
+    "href": "posts/quarto-setup.html#the-structure",
+    "title": "How I Set Up This Website with Quarto",
+    "section": "The Structure",
+    "text": "The Structure\nThe site is organized as…\nmy-website/\n├── _quarto.yml      # Site config\n├── index.qmd        # Homepage\n├── publications.qmd\n├── projects/\n├── posts/           # Blog posts live here\n├── teaching.qmd\n└── assets/"
+  },
+  {
+    "objectID": "posts/quarto-setup.html#deploying-to-github-pages",
+    "href": "posts/quarto-setup.html#deploying-to-github-pages",
+    "title": "How I Set Up This Website with Quarto",
+    "section": "Deploying to GitHub Pages",
+    "text": "Deploying to GitHub Pages\n# One-time setup\nquarto publish gh-pages\n\n# Subsequent updates\ngit add . && git commit -m \"Update\"\nquarto publish gh-pages\nThat’s it — Quarto handles building and pushing to the gh-pages branch automatically. Your site will be live at https://yourusername.github.io."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "These are ongoing and completed projects from my research work.\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning\n\nSystems\n\nPython\n\n\n\nOne or two sentences describing the core idea and why it matters.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html#research-projects",
+    "href": "projects.html#research-projects",
+    "title": "Projects",
+    "section": "",
+    "text": "These are ongoing and completed projects from my research work.\n\n\n\n\n\n\n\n\n\n\n\n\nMachine Learning\n\nSystems\n\nPython\n\n\n\nOne or two sentences describing the core idea and why it matters.\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects.html#side-projects-open-source",
+    "href": "projects.html#side-projects-open-source",
+    "title": "Projects",
+    "section": "Side Projects & Open Source",
+    "text": "Side Projects & Open Source\nPersonal projects, course projects, and open-source contributions.\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "Order By\n      Default\n      \n        Title\n      \n      \n        Date - Oldest\n      \n      \n        Date - Newest\n      \n    \n  \n    \n      \n      \n    \n\n\n\n\nNo matching items",
+    "crumbs": [
+      "Blog"
+    ]
+  }
+]
