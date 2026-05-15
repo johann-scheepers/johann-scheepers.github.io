@@ -11,22 +11,22 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: publications.qmd
-        text: Publications
-      - href: projects.qmd
-        text: Projects
+      # - href: publications.qmd
+      #   text: Publications
+      # - href: projects.qmd
+      #   text: Projects
       - href: teaching.qmd
         text: Teaching
-      - href: blog/index.qmd
-        text: Blog
+      # - href: blog/index.qmd
+      #   text: Blog
       - href: contact.qmd
         text: Contact
     right:
       - icon: github
-        href: https://github.com/yourusername
+        href: https://github.com/johann-scheepers
         aria-label: GitHub
       - icon: linkedin
-        href: https://linkedin.com/in/yourname
+        href: https://linkedin.com/in/johann-scheepers
         aria-label: LinkedIn
 
   page-footer:
@@ -45,6 +45,7 @@ website:
 
 format:
   html:
+    include-after-body: assets/nav-links.html
     theme:
       light: flatly   # Try: cosmo, flatly, lumen, pulse, sandstone, simplex, sketchy, slate, solar, spacelab, superhero, united, yeti
       dark: darkly
@@ -53,7 +54,7 @@ format:
     toc-depth: 3
     smooth-scroll: true
     code-fold: true      # Collapsible code blocks — great for DS/CS
-    code-tools: true
+    code-tools: false
 
 execute:
   freeze: auto           # Re-render only when source changes

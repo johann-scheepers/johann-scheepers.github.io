@@ -1,6 +1,6 @@
 ---
-title: "Your Name"
-subtitle: "PhD Student · Department of Computer Science · University of Waterloo"
+title: "Johann Scheepers"
+subtitle: "PhD Candidate · Department of Mechanical and Mechatronics Engineering · University of Waterloo"
 image: assets/img/profile.jpg
 about:
   template: trestles      # Options: jolla, trestles, solana, marquee, broadside
@@ -8,55 +8,39 @@ about:
   links:
     - icon: envelope
       text: Email
-      href: mailto:you@uwaterloo.ca
+      href: mailto:jbscheep@uwaterloo.ca
     - icon: github
       text: GitHub
-      href: https://github.com/yourusername
+      href: https://github.com/johann-scheepers
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com/in/yourname
-    - text: "{{< ai google-scholar >}} Google Scholar"
-      href: https://scholar.google.com/
+      href: https://linkedin.com/in/johann-scheepers
     - text: CV
       href: assets/files/CV.pdf
+include-after-body:
+  text: |
+    <script>
+    document.querySelectorAll('.about-links a').forEach(a => {
+      if (!a.href.startsWith('mailto')) a.target = '_blank';
+    });
+    </script>
 ---
 
 ## About Me
 
-I am a PhD student in the [Cheriton School of Computer Science](https://cs.uwaterloo.ca/) at the
-University of Waterloo, advised by [Prof. Supervisor Name](https://example.com).
-My research is supported by [funding source, e.g., NSERC].
+I am a PhD student in the [Department of Mechanical and Mechatronics Engineering](https://uwaterloo.ca/mechanical-mechatronics-engineering/) at the
+University of Waterloo, advised by [Prof. Kaan Inal](https://uwaterloo.ca/mechanical-mechatronics-engineering/profile/kinal).
+My research is supported by [General Motors Canada](https://www.gm.ca/en/home.html).
 
-My work sits at the intersection of **machine learning** and **systems** — I build and study
-[brief research description, e.g., efficient algorithms for distributed ML training].
+My work sits at the intersection of **deep learning** and **computational mechanics**. I trained and study Deep Learning approaches to understand complex material systems and accelerate simulations involving them.
 
-Previously, I completed my B.Sc. in [field] at [university], where I worked on [brief description].
+Previously, I completed my BASc. in Mechanical Engineering at the University of Waterloo.
 
 ---
 
 ## Research Interests
 
-- **Topic 1** — one-line description
-- **Topic 2** — one-line description
-- **Topic 3** — one-line description
+- **Deep Learning Surrogate Models** — Using advanced neural network architectures to replace computationally expensive material models.
+- **ML Deployment** — Once a model is built, it needs to run somewhere, either locally, on GPU cluster, or sometimes as part of a more complex simulation system. I develop methods of doing the latter with fewer headaches.
 
 ---
-
-## News
-
-| Date | Event |
-|------|-------|
-| May 2026 | Paper accepted at [Venue] |
-| Jan 2026 | Started internship at [Company] |
-| Sep 2025 | Joined [Lab Name] as a PhD student |
-
----
-
-## Selected Publications
-
-See the full list on the [Publications](publications.qmd) page.
-
-**Paper Title Here**  
-Your Name, Coauthor A, Coauthor B  
-*Conference / Journal Name*, Year  
-[[PDF]](assets/files/paper.pdf) [[Code]](https://github.com) [[Talk]](#)

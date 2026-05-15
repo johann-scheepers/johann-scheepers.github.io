@@ -4,37 +4,17 @@ title: "Teaching"
 
 ## Teaching Assistantships
 
-### CS 123: Algorithms and Data Structures
-**University of Waterloo · Fall 2025**
+### ME 559 - Finite Element Methods
+**University of Waterloo · Fall 2023, Fall 2024, Fall 2025**
 
-- Held office hours (4 hrs/week) for ~200 students
-- Led bi-weekly tutorial sessions on algorithm design and proof techniques
+- Hosted lectures on course content including multi-dimensional structural FEM and isoparameteric integration
+- Led tutorial sessions on simulation development and analysis
 - Developed practice problems and solutions for midterm/final review
-
-### CS 456: Machine Learning
-**University of Waterloo · Winter 2025**
-
 - Graded assignments and provided detailed written feedback
-- Guest lecture: "Generalization and Overfitting" ([Slides](assets/files/teaching/ml-lecture.pdf))
 
 ---
 
-## Guest Lectures & Talks
-
-| Date | Topic | Venue |
-|------|-------|-------|
-| Mar 2026 | "Introduction to Transformers" | CS 489, UWaterloo |
-| Nov 2025 | "Distributed Training at Scale" | Reading Group |
-
----
-
-## Mentorship
-
-- **Undergraduate Researcher** — Student Name (2025–present): working on [project topic]
-- **Co-supervisor** — Student Name (2024): [brief description], now at [company/school]
-
----
-
+<!--
 ## Materials
 
 Some materials I've prepared that might be useful:
@@ -42,3 +22,4 @@ Some materials I've prepared that might be useful:
 - [Tutorial: Getting Started with PyTorch](posts/pytorch-intro.qmd)
 - [Notes: Probability Review for ML](assets/files/teaching/prob-review.pdf)
 - [Cheatsheet: Git for Researchers](assets/files/teaching/git-cheatsheet.pdf)
+-->
