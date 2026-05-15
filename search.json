@@ -37,35 +37,35 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Your Name",
+    "title": "Johann Scheepers",
     "section": "",
-    "text": "I am a PhD student in the Cheriton School of Computer Science at the University of Waterloo, advised by Prof. Supervisor Name. My research is supported by [funding source, e.g., NSERC].\nMy work sits at the intersection of machine learning and systems — I build and study [brief research description, e.g., efficient algorithms for distributed ML training].\nPreviously, I completed my B.Sc. in [field] at [university], where I worked on [brief description]."
+    "text": "I am a PhD student in the Department of Mechanical and Mechatronics Engineering at the University of Waterloo, advised by Prof. Kaan Inal. My research is supported by General Motors Canada.\nMy work sits at the intersection of machine learning and computational mechanics. I build and study Deep Learning approaches to understand complex material systems and accelerate simulations involving them.\nPreviously, I completed my BASc. in Mechanical Engineering at the University of Waterloo."
   },
   {
     "objectID": "index.html#about-me",
     "href": "index.html#about-me",
-    "title": "Your Name",
+    "title": "Johann Scheepers",
     "section": "",
-    "text": "I am a PhD student in the Cheriton School of Computer Science at the University of Waterloo, advised by Prof. Supervisor Name. My research is supported by [funding source, e.g., NSERC].\nMy work sits at the intersection of machine learning and systems — I build and study [brief research description, e.g., efficient algorithms for distributed ML training].\nPreviously, I completed my B.Sc. in [field] at [university], where I worked on [brief description]."
+    "text": "I am a PhD student in the Department of Mechanical and Mechatronics Engineering at the University of Waterloo, advised by Prof. Kaan Inal. My research is supported by General Motors Canada.\nMy work sits at the intersection of machine learning and computational mechanics. I build and study Deep Learning approaches to understand complex material systems and accelerate simulations involving them.\nPreviously, I completed my BASc. in Mechanical Engineering at the University of Waterloo."
   },
   {
     "objectID": "index.html#research-interests",
     "href": "index.html#research-interests",
-    "title": "Your Name",
+    "title": "Johann Scheepers",
     "section": "Research Interests",
-    "text": "Research Interests\n\nTopic 1 — one-line description\nTopic 2 — one-line description\nTopic 3 — one-line description"
+    "text": "Research Interests\n\nDeep Learning Surrogate Models — Using advanced neural network architectures to replace computationally expensive material models.\nML Deployment — Building\nTopic 3 — one-line description"
   },
   {
     "objectID": "index.html#news",
     "href": "index.html#news",
-    "title": "Your Name",
+    "title": "Johann Scheepers",
     "section": "News",
     "text": "News\n\n\n\nDate\nEvent\n\n\n\n\nMay 2026\nPaper accepted at [Venue]\n\n\nJan 2026\nStarted internship at [Company]\n\n\nSep 2025\nJoined [Lab Name] as a PhD student"
   },
   {
     "objectID": "index.html#selected-publications",
     "href": "index.html#selected-publications",
-    "title": "Your Name",
+    "title": "Johann Scheepers",
     "section": "Selected Publications",
     "text": "Selected Publications\nSee the full list on the Publications page.\nPaper Title Here\nYour Name, Coauthor A, Coauthor B\nConference / Journal Name, Year\n[PDF] [Code] [Talk]"
   },
@@ -109,21 +109,21 @@
     "href": "contact.html",
     "title": "Contact",
     "section": "",
-    "text": "The best way to reach me is by email: you@uwaterloo.ca\nI’m happy to chat about:\n\nResearch collaborations or questions about my work\nPhD applications and advice (especially for [your subfield])\nData science or ML questions\nAnything else reasonable 🙂"
+    "text": "The best way to reach me is by email: jbscheep@uwaterloo.ca\nI’m happy to chat about:\n\nResearch collaborations or questions about my work\nPhD applications and advice (especially for Computational Mechanics)\nData science or ML questions"
   },
   {
     "objectID": "contact.html#get-in-touch",
     "href": "contact.html#get-in-touch",
     "title": "Contact",
     "section": "",
-    "text": "The best way to reach me is by email: you@uwaterloo.ca\nI’m happy to chat about:\n\nResearch collaborations or questions about my work\nPhD applications and advice (especially for [your subfield])\nData science or ML questions\nAnything else reasonable 🙂"
+    "text": "The best way to reach me is by email: jbscheep@uwaterloo.ca\nI’m happy to chat about:\n\nResearch collaborations or questions about my work\nPhD applications and advice (especially for Computational Mechanics)\nData science or ML questions"
   },
   {
     "objectID": "contact.html#find-me-online",
     "href": "contact.html#find-me-online",
     "title": "Contact",
     "section": "Find Me Online",
-    "text": "Find Me Online\n\n\n\nPlatform\nHandle\n\n\n\n\nGitHub\n@yourusername\n\n\nLinkedIn\nYour Name\n\n\nGoogle Scholar\nYour Profile\n\n\nTwitter / X\n@yourhandle"
+    "text": "Find Me Online\n\n\n\nPlatform\nHandle\n\n\n\n\nGitHub\n@yourusername\n\n\nLinkedIn\nYour Name"
   },
   {
     "objectID": "contact.html#office",
